@@ -1,0 +1,45 @@
+.conteudo{
+	-fx-background-color: black;
+		background-color: black;
+	
+	-fx-font-family: "Oswald";
+		font-family: "Oswald";
+}
+
+.numero{
+	
+	-fx-text-fill: #eee;
+	-fx-font-size: 28px;
+		font-size: 28px;
+}
+
+.titulo{
+		-fx-text-fill: #2ea3fa;
+		-fx-font-size: 36px;
+			font-size: 36px;
+	
+}
+
+.botoes{
+	-fx-background-color: #fff;
+		background-color: #fff;
+	-fx-text-fill: #2ea3fa;
+	-fx-font-size: 28px;
+		font-size: 28px;
+	-fx-min-widht: 60px;
+	-fx-min-height: 60px;
+		min-height: 60px;
+	-fx-background-radius: 30px;
+}
+
+.verde{
+	-fx-text-fill: #6af552;
+	
+}
+
+.vermelho{
+	-fx-text-fill: #fb0000;
+	
+}
+
+
